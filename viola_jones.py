@@ -52,6 +52,7 @@ class ViolaJones:
                         
                         y += 1
                     x += 1
+        return all_possible_features
 
 
     # image_dataset -> array of tuples (image, image_label)
